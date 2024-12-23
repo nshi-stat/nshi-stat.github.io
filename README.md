@@ -22,4 +22,4 @@ Website: <a href="https://nshi.jp/en/" target="_blank">https://nshi.jp/en/</a>
 
 # Package Sites
 
-- <a href="https://nshi-stat.github.io/surrosurvo/" target="_blank">surrosurvo</a>
+- <a href="https://nshi-stat.github.io/docs/surrosurvo/" target="_blank">surrosurvo</a>
