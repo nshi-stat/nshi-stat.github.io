@@ -15,7 +15,7 @@ I am also interested in Biomarkers in Clinical Trials, Cancer Clinical Trials, A
 Biostatistics Unit, Clinical and Translational Research Center, Keio University Hospital.
 35 Shinanomachi, Shinjuku-ku, Tokyo 160-8582, Japan.
 
-E-mail: <a style="vertical-align: top" href="&#109;&#97;&#105;&#108;&#116;&#111;&colon;&#110;&#115;&#104;&#105;&commat;&#107;&#101;&#105;&#111;&period;&#106;&#112;" target="_blank"><img src="https://nshi.jp/img/emimg.png" alt="E-mail" width="120" height="18"></a>
+E-mail: <a style="vertical-align: middle" href="&#109;&#97;&#105;&#108;&#116;&#111;&colon;&#110;&#115;&#104;&#105;&commat;&#107;&#101;&#105;&#111;&period;&#106;&#112;" target="_blank"><img src="https://nshi.jp/img/emimg.png" alt="E-mail" width="120" height="18"></a>
 
 Website:
 
