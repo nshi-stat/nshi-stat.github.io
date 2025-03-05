@@ -27,3 +27,4 @@ Website:
 
 - <a href="https://nshi-stat.github.io/surrosurvo/" target="_blank">surrosurvo</a>
 - <a href="https://nshi-stat.github.io/gstest/" target="_blank">gstest</a>
+- <a href="https://nshi-stat.github.io/pimeta/" target="_blank">pimeta</a>
